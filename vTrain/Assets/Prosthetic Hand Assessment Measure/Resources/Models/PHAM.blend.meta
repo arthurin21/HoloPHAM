@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 18504b0761571cd4b824238617786a21
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: B_HHolder1
+    100002: B_HHolder2
+    100004: B_VHolder1
+    100006: B_VHolder2
+    100008: B_VHolder3
+    100010: Button
+    100012: M_HHolder1
+    100014: M_HHolder2
+    100016: Main_Frame
+    100018: //RootNode
+    100020: T_HHolder1
+    100022: T_HHolder2
+    100024: T_VHolder1
+    100026: T_VHolder2
+    100028: T_VHolder3
+    100030: Camera
+    100032: Lamp
+    400000: B_HHolder1
+    400002: B_HHolder2
+    400004: B_VHolder1
+    400006: B_VHolder2
+    400008: B_VHolder3
+    400010: Button
+    400012: M_HHolder1
+    400014: M_HHolder2
+    400016: Main_Frame
+    400018: //RootNode
+    400020: T_HHolder1
+    400022: T_HHolder2
+    400024: T_VHolder1
+    400026: T_VHolder2
+    400028: T_VHolder3
+    400030: Camera
+    400032: Lamp
+    2000000: Camera
+    2100000: unnamed
+    2100002: No Name
+    2300000: B_HHolder1
+    2300002: B_HHolder2
+    2300004: B_VHolder1
+    2300006: B_VHolder2
+    2300008: B_VHolder3
+    2300010: Button
+    2300012: M_HHolder1
+    2300014: M_HHolder2
+    2300016: Main_Frame
+    2300018: T_HHolder1
+    2300020: T_HHolder2
+    2300022: T_VHolder1
+    2300024: T_VHolder2
+    2300026: T_VHolder3
+    3300000: B_HHolder1
+    3300002: B_HHolder2
+    3300004: B_VHolder1
+    3300006: B_VHolder2
+    3300008: B_VHolder3
+    3300010: Button
+    3300012: M_HHolder1
+    3300014: M_HHolder2
+    3300016: Main_Frame
+    3300018: T_HHolder1
+    3300020: T_HHolder2
+    3300022: T_VHolder1
+    3300024: T_VHolder2
+    3300026: T_VHolder3
+    4300000: Button
+    4300002: T_HHolder1
+    4300004: T_HHolder2
+    4300006: M_HHolder2
+    4300008: M_HHolder1
+    4300010: B_HHolder1
+    4300012: B_HHolder2
+    4300014: B_VHolder3
+    4300016: B_VHolder2
+    4300018: B_VHolder1
+    4300020: T_VHolder3
+    4300022: T_VHolder2
+    4300024: T_VHolder1
+    4300026: Main_Frame
+    6400000: B_HHolder1
+    6400002: B_HHolder2
+    6400004: B_VHolder1
+    6400006: B_VHolder2
+    6400008: B_VHolder3
+    6400010: Button
+    6400012: M_HHolder1
+    6400014: M_HHolder2
+    6400016: Main_Frame
+    6400018: T_HHolder1
+    6400020: T_HHolder2
+    6400022: T_VHolder1
+    6400024: T_VHolder2
+    6400026: T_VHolder3
+    7400000: Default Take
+    9500000: //RootNode
+    10800000: Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
